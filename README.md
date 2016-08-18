@@ -1,5 +1,5 @@
 # DelawareBlockchain
-A Git Repo for all the Blockchain goings on in Delaware
+A Git Repo for all the Blockchain goings on in Delaware.           
 So I have made two contracts on the Ethereum testnet blockchain, I reccomend you connect with the Mist Ethereum Wallet as it is much easier than the command line version. 
 All of the information I used to get to this point, including much the source code is located on https://www.ethereum.org/
 
